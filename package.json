@@ -1,0 +1,27 @@
+{
+  "name": "react-swipe-card",
+  "version": "1.0.0",
+  "private": false,
+  "description": "this is a Swipe Gesture Card Component for React project.",
+  "author": "iaiae",
+  "site": "makto.win",
+  "main": "./src/index.jsx",
+  "scripts": {
+    
+  },
+  "keywords": [
+    "react",
+    "swipe",
+    "card"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IAIAE/ReactCard.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+  },
+  "dependencies": {
+    "flipsnap": "^0.6.3"
+  }
+}

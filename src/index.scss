@@ -1,0 +1,14 @@
+.viewport{
+  overflow-x: hidden;
+  width: 100%;
+  writing-mode: initial;
+  position: relative;
+}
+.holder{
+  white-space: nowrap;
+  writing-mode: vertical-lr;
+  div {
+    writing-mode: initial;
+    box-sizing: border-box;
+  }
+}
