@@ -36,6 +36,9 @@ const view = () =>{
 use [flipsnap.js](https://github.com/hokaccha/js-flipsnap), but beyond it, need not set `width` for outer div. just put div into it, it works well as well.
 
 # demo
-![](https://github.com/IAIAE/ReactCard/blob/master/img/demo.gif)
+<div style="text-align: center;">
+<img src="https://github.com/IAIAE/ReactCard/blob/master/img/demo.gif" width="200"/>
+<div>
+
 
 
