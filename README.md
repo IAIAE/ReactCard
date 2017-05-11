@@ -4,12 +4,12 @@ this is a component for React. you can create swipable card easily.
 # usage
 
 ```
-npm install react-swipe-card --save
+npm install react-card-list --save
 ```
 
 
 ```javascript
-import CardList from 'react-swipe-card';
+import CardList from 'react-card-list';
 // you can style the cardItem and the outer frame as you like.
 import {viewport, cardItem} from './your/style.scss'
 
@@ -36,4 +36,6 @@ const view = () =>{
 use [flipsnap.js](https://github.com/hokaccha/js-flipsnap), but beyond it, need not set `width` for outer div. just put div into it, it works well as well.
 
 # demo
+!()[https://github.com/IAIAE/ReactCard/blob/master/img/demo.gif]
+
 
