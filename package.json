@@ -1,11 +1,11 @@
 {
   "name": "react-card-list",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "private": false,
   "description": "this is a Swipe Gesture Card Component for React project.",
   "author": "iaiae",
   "site": "makto.win",
-  "main": "./src/index.jsx",
+  "main": "./index.js",
   "scripts": {
     
   },
